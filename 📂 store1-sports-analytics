@@ -1,0 +1,20 @@
+# 🏆 Análisis de Segmentación de Socios - Club Deportivo Elite
+
+## 📊 Resumen del Proyecto
+Análisis completo de segmentación de socios para optimizar el programa de fidelización del Club Deportivo Elite, identificando patrones de consumo y comportamiento en productos deportivos.
+
+## 🎯 Objetivos
+- Segmentar socios por edad y patrones de gasto
+- Identificar categorías deportivas más rentables
+- Optimizar estrategias de retención y marketing deportivo
+- Preparar datos para KPIs del programa de fidelización
+
+## 🛠️ Herramientas Utilizadas
+- **Python**: Pandas, NumPy
+- **Análisis**: Limpieza de datos, segmentación, cálculo de métricas
+- **Visualización**: Matplotlib, Seaborn
+
+## 📈 Resultados Clave
+- Identificación de 3 segmentos principales de socios
+- Análisis de rentabilidad por categoría deportiva
+- Recomendaciones estratégicas para el programa de fidelización3
